@@ -32,3 +32,4 @@ try:
 except requests.exceptions.RequestException:
     print u"网络连接异常"
 os.system("pause")
+print 'wjx'
